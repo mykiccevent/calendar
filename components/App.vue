@@ -425,10 +425,10 @@ const transformEventSourcesResponse = (eventSources: Ref<Record<string, any>>) =
               Knox Info & Calendar Community
             </div>
             <div class="blurb-sub">
-              KICC supports liberation movements in the Knox County area with a <br>
-              unified activism event calendar, available here and in print.<br>
-              <a href="/contributing">Click here to get your event listed!</a><br>
-              <a href="https://ko-fi.com/kicc_knox/">Click here to help support our work!</a>
+              <p>KICC supports liberation movements in the Knox County area with a <br>
+              unified activism event calendar, available here and in print.</p>
+              <p><a href="/contributing">Click here to get your event listed!</a></p>
+              <p><a href="https://ko-fi.com/kicc_knox/">Click here to help support our work!</a></p>
             </div>
           </td>
         </tr>
