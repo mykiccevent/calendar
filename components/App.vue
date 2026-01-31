@@ -427,7 +427,8 @@ const transformEventSourcesResponse = (eventSources: Ref<Record<string, any>>) =
             <div class="blurb-sub">
               KICC supports liberation movements in the Knox County area with a <br>
               unified activism event calendar, available here and in print.<br>
-              <a href="/contributing">Click here to get your event listed!</a>
+              <a href="/contributing">Click here to get your event listed!</a><br>
+              <a href="https://ko-fi.com/kicc_knox/">Click here to help support our work!</a>
             </div>
           </td>
         </tr>
@@ -445,7 +446,9 @@ const transformEventSourcesResponse = (eventSources: Ref<Record<string, any>>) =
           always be free, without frills, and remain a public utility. The events here are drawn from social justice and mutual aid organizations that
           contributors (thank you!) have provided. Building community is the focus of this project. If you'd like to become
           a contributor of events, check out our contributing guide <a href="/contributing">here</a>! The events presented here are in a
-          constant state of community-based vetting; don't hesitate to provide feedback! For suggestions and questions <a href="mailto:mykiccevent@gmail.com">email us here.</a></p>
+          constant state of community-based vetting; don't hesitate to provide feedback!<br>
+           For suggestions and questions, please <a href="mailto:mykiccevent@gmail.com">email us here.</a><br>
+           If you like this and want to help us keep doing it (and maybe expand our work!), you can <a href="https://ko-fi.com/kicc_knox/">support us here.</a> </p>
          <p>Before making plans, consider checking with venue staff or event organizers directly. This site is not
           affiliated with any events listed.</p>
          <p>Wanna find more groups? Check out our <a href="/list">list of organizations and groups</a> in Knoxville</p>
