@@ -21,11 +21,11 @@ onMounted(() => {
     <div>
       <div style="display: flex; justify-content: space-between; align-items: center; padding-top: 0;">
         <div class="desc no-toppy">
-          <a href="/">home</a> |
-          <!-- <a href="/list">list of cool groups</a> | -->
+          <!-- <a href="/">home</a> | --->
+          <a href="https://linktr.ee/kicc.links">list of cool local groups</a> |
           <a href="/contributing">how to contribute</a> | 
-          <!-- <a href="https://linktr.ee/RhizomeResources">local groups</a> |  -->
-          <a href="https://github.com/NacreData/calendar">source code</a> 
+         <a href="https://ko-fi.com/kicc_knox/">help support this project</a> |
+          <a href="https://github.com/mykiccevent/calendar/tree/EastTN">source code</a> 
         </div>
         <div class="desc no-toppy">
           <span class="window-box-effect">theme:  
