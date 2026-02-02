@@ -416,7 +416,7 @@ const transformEventSourcesResponse = (eventSources: Ref<Record<string, any>>) =
   <div class="calendar-container">
     <div class="header">
           <span class="blurb-image"> 
-            <img src="/logo.png"> 
+            <img src="/logo.png" width="300"> 
           </span>
           <span class="blurb">
             <div class="blurb-text">
