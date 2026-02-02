@@ -315,6 +315,7 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 
 .blurb-image {
   width: 33%;
+  min-width: 300px;
   color: var(--text-normal);
   text-decoration: none !important;
   font-size: min(5vw, 3em);
