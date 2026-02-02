@@ -296,7 +296,6 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 }
 
 .header {
-  width: 60%;
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-around;
@@ -310,12 +309,10 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 }
 
 .blurb {
-  width: 60%;
   align-content: center;
 }
 
 .blurb-image {
-  width: 33%;
   min-width: 300px;
   color: var(--text-normal);
   text-decoration: none !important;
@@ -334,7 +331,6 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 }
 
 .blurb-sub {
-  width: 50%
   font-family: 'OpenDyslexic';
   font-size: min(1.2em);
   color: var(--text-normal);
