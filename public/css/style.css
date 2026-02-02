@@ -299,6 +299,8 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-around;
+  padding: min(1vw, 1.75em);
+  font-family: 'OpenDyslexic', serif;
 }
 
 @media(max-width: 700px) {
@@ -310,6 +312,8 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 
 .blurb {
   align-content: center;
+  font-family: 'OpenDyslexic', serif;
+  padding: min(1vw, 1.75em);
 }
 
 .blurb-image {
@@ -320,6 +324,7 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
   font-family: 'OpenDyslexic';
   letter-spacing: 0.15rem;
   text-transform: lowercase;
+  padding: min(1vw, 1.75em);
 }
   
 .blurb-text {
@@ -332,7 +337,8 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 
 .blurb-sub {
   max-width: 400px;
-  font-family: 'OpenDyslexic';
+  font-family: 'OpenDyslexic', serif;
+  padding: min(1vw, 1.75em);
   font-size: min(1.2em);
   color: var(--text-normal);
 }
