@@ -297,7 +297,6 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 
 .header {
   width: 60%;
-  align-content: center;
   display: flex;
   flex-wrap: nowrap;
   justify-content: space-around;
@@ -306,6 +305,7 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 @media(max-width: 700px) {
   .header {   
     flex-direction: column;
+    justify-content: center;
   }
 }
 
@@ -320,7 +320,7 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
   color: var(--text-normal);
   text-decoration: none !important;
   font-size: min(5vw, 3em);
-  font-family: sans-serif;
+  font-family: 'OpenDyslexic';
   letter-spacing: 0.15rem;
   text-transform: lowercase;
 }
@@ -337,7 +337,6 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
   width: 50%
   font-family: 'OpenDyslexic';
   font-size: min(1.2em);
-  text-align: justify;
   color: var(--text-normal);
 }
 
