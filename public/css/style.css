@@ -308,11 +308,11 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 }
 
 .blurb {
-
+  width: 300px;
 }
 
 .blurb-image {
-  flex: 1 0 300px;
+  width: 300px;
   color: var(--text-normal);
   text-decoration: none !important;
   font-size: min(5vw, 3em);
