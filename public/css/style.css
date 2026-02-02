@@ -309,7 +309,8 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 }
 
 .blurb {
-  width: 66%;
+  width: 60%;
+  align-content: center;
 }
 
 .blurb-image {
@@ -331,7 +332,7 @@ div.fc-scrollgrid-sync-inner:not(.fc-daygrid-day-frame) {
 }
 
 .blurb-sub {
-  width: 60%
+  width: 50%
   font-family: 'OpenDyslexic';
   font-size: min(1.2em);
   text-align: justify;
