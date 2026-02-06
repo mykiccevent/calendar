@@ -440,7 +440,7 @@ const transformEventSourcesResponse = (eventSources: Ref<Record<string, any>>) =
            If you like this and want to help us keep doing it (and maybe expand our work!), you can <a href="https://ko-fi.com/kicc_knox/">support us here.</a> </p>
          <p>Before making plans, consider checking with venue staff or event organizers directly. This site is not
           affiliated with any events listed.</p>
-         <p>Wanna find more cool people to hang out and do stuff with? Check out our <a href="/list">list of organizations and groups</a> in Knoxville</p>
+         <p>Wanna find more cool people to hang out and do stuff with? Check out our <a href="https://linktr.ee/kicc.links">list of organizations and groups</a> in Knoxville</p>
          <p>Not in Knoxville? Check out our sibling sites <a href="https://nctree.xyz/">nctree.xyz</a>, <a href="https://rva.rip/">rva.rip</a>, <a href="https://anarchism.nyc/">anarchism.nyc</a>, 
        <a href="https://bay.lgbt/">bay.lgbt</a>, and <a href="https://anarchism.boston/">anarchism.boston</a>. This site wouldn't exist without them and their awesome maintainers.</p>
       </div>
